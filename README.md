@@ -1,5 +1,5 @@
 <picture>
-  <img src="github-metrics.svg" alt="Metrics">
+  <img src="github-metrics.svg" alt="Metrics" width="80%">
 </picture>
 
 ![](https://hit.yhype.me/github/profile?user_id=40327258)
