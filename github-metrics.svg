@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awesome-lists/awesome-bash</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of delightful Bash scripts and resources.</div>
@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koalaman/shellcheck</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ShellCheck, a static analysis tool for shell scripts</div>
@@ -2431,7 +2431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dylanaraps/pure-bash-bible</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📖 A collection of pure bash alternatives to external processes.</div>
@@ -2484,7 +2484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>starship/starship</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!</div>
@@ -2626,7 +2626,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jul 2023, 19:12:40 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jul 2023, 20:17:27 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
