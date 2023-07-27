@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1720" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1687" class="large">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3845 Commits
+                            3846 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.625130632569" height="8" fill="#519aba"/>
-                    <rect mask="url(#languages-bar)" x="333.625130632569" y="0" width="319.9290998135284" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="653.5542304460974" y="0" width="145.25522017991435" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="798.8094506260118" y="0" width="60.76965635950083" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="859.5791069855126" y="0" width="44.029015798856584" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="903.6081227843691" y="0" width="7.757627917460708" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="911.3657507018297" y="0" width="4.439663121657343" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="915.805413823487" y="0" width="4.194586176512776" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.20323921021503" height="8" fill="#519aba"/>
+                    <rect mask="url(#languages-bar)" x="329.20323921021503" y="0" width="327.8824825857066" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="657.0857217959216" y="0" width="143.32999706813058" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="800.4157188640521" y="0" width="59.96421097327954" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="860.3799298373317" y="0" width="43.44545206393497" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="903.8253819012666" y="0" width="7.65480776035506" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="911.4801896616217" y="0" width="4.3808195080525305" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="915.8610091696742" y="0" width="4.13899083032564" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>starship/starship</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!</div>
@@ -2526,6 +2526,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mauwii/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72ada09</div>
+                                        <div class="message">update setup script</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2646,40 +2666,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">mauwii/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a4f85be</div>
-                                        <div class="message">set syntax of .Brewfile in bat to Ruby</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16c672f</div>
-                                        <div class="message">use german formats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8e30ff</div>
-                                        <div class="message">add direnv to starship</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2023, 22:15:26 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jul 2023, 23:11:52 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
