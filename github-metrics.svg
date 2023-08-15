@@ -2675,7 +2675,7 @@ this way it can overwrite the global gitconfig if necessary</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2023, 14:27:40 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Aug 2023, 15:17:09 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
