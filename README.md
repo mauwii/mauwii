@@ -1,4 +1,4 @@
-[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="128"/>](https://learn.microsoft.com/api/credentials/share/en-us/mauwii/C2481A9FCC9D3273?sharingId=4CBE98BA91B1C587)
+[<div style="width:20%">![DevOps](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg)</div>](https://learn.microsoft.com/api/credentials/share/en-us/mauwii/C2481A9FCC9D3273?sharingId=4CBE98BA91B1C587)
 
 <picture>
   <img src="github-metrics.svg" alt="Metrics" width="100%">
