@@ -2263,7 +2263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pineapple-pager-projects/pineapple_pager_pagergotchi</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pwnagotchi ported to the hak5 wifi pineapple pager with some added features, uses pineAP</div>
@@ -2310,7 +2310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pineapple-pager-projects/pineapple_pager_loki</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LAN Orchestrated Key Infiltrator - Autonomous network recon payload for the Hak5 WiFi Pineapple Pager — inspired by Bjorn, rebuilt with themes, web UI, and expanded functionality.</div>
@@ -2363,7 +2363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hak5/wifipineapplepager-payloads</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Official WiFi Pineapple Pager Payload Repository</div>
@@ -2505,7 +2505,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jun 2026, 14:47:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jun 2026, 15:37:24 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
