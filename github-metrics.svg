@@ -2233,7 +2233,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>z3r0l1nk/pager_page</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WiFi Pineapple Pager Payload Library — Browse and understand Hak5 Pineapple Pager payloads</div>
@@ -2327,7 +2327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pineapple-pager-projects/pineapple_pager_pagergotchi</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pwnagotchi ported to the hak5 wifi pineapple pager with some added features, uses pineAP</div>
@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pineapple-pager-projects/pineapple_pager_loki</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LAN Orchestrated Key Infiltrator - Autonomous network recon payload for the Hak5 WiFi Pineapple Pager — inspired by Bjorn, rebuilt with themes, web UI, and expanded functionality.</div>
@@ -2462,7 +2462,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2026, 11:43:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2026, 13:45:07 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
