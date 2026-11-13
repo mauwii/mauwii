@@ -31,12 +31,8 @@ jobs:
           config_display: large
           config_padding: 0, 8 + 11%
           config_timezone: Europe/Berlin
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # ponytail: activity plugin crashes on trimmed GitHub PullRequestEvent payloads (metrics v3.34, no upstream fix); re-enable when fixed
+          plugin_activity: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
